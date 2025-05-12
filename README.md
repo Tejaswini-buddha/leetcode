@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tejaswini-buddha/leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Tejaswini-buddha/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tejaswini-buddha/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Tejaswini-buddha/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejaswini-buddha/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Tejaswini-buddha/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tejaswini-buddha/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Tejaswini-buddha/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tejaswini-buddha/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Tejaswini-buddha/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Tejaswini-buddha/leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Tejaswini-buddha/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
