@@ -1,11 +1,12 @@
 class Solution {
-    public static void main(String[]args){
-    int a = 8;
-    int ans = fib(8);
-    System.out.print(ans);
-    }
-    public static int fib(int a){
-        if(a <= 1) return a;
-        return fib(a - 1) + fib(a - 2);
+    public int fib(int n) {
+        if (n <= 1) return n;
+        int a = 0, b = 1;
+        for(int i = 2; i <= n; i++) {
+            int temp = b;
+            b = a + b;
+            a = temp;
+        }
+        return b;
     }
 }
