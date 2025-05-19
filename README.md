@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tejaswini-buddha/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Tejaswini-buddha/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Tejaswini-buddha/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
