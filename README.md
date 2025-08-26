@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Tejaswini-buddha/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejaswini-buddha/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Tejaswini-buddha/leetcode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/Tejaswini-buddha/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaswini-buddha/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Tejaswini-buddha/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tejaswini-buddha/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Tejaswini-buddha/leetcode/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Tejaswini-buddha/leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -122,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejaswini-buddha/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Tejaswini-buddha/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Tejaswini-buddha/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejaswini-buddha/leetcode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Tejaswini-buddha/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Tejaswini-buddha/leetcode/tree/master/0733-flood-fill) |
 ## Linked List
 |  |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tejaswini-buddha/leetcode/tree/master/0100-same-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tejaswini-buddha/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
