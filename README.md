@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tejaswini-buddha/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tejaswini-buddha/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tejaswini-buddha/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Tejaswini-buddha/leetcode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tejaswini-buddha/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Tejaswini-buddha/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Tejaswini-buddha/leetcode/tree/master/0135-candy) |
 | [0649-dota2-senate](https://github.com/Tejaswini-buddha/leetcode/tree/master/0649-dota2-senate) |
 ## Queue
 |  |
