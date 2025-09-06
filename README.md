@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Tejaswini-buddha/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Tejaswini-buddha/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejaswini-buddha/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejaswini-buddha/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Tejaswini-buddha/leetcode/tree/master/0898-transpose-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Tejaswini-buddha/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tejaswini-buddha/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejaswini-buddha/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tejaswini-buddha/leetcode/tree/master/0020-valid-parentheses) |
 | [0649-dota2-senate](https://github.com/Tejaswini-buddha/leetcode/tree/master/0649-dota2-senate) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tejaswini-buddha/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/Tejaswini-buddha/leetcode/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
